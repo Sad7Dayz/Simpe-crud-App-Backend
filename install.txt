@@ -1,0 +1,28 @@
+1. 패키지 생성
+npm init -y
+
+2. 패키지 셋팅
+Package.json에서 "server": "node index.js" 추가하면 npm run server 명령으로 런 가능
+
+3. express
+웹 및 모바일 애플리케이션을 위한 일련의 강력한 기능을 제공하는 간결하고 유연한 Node.js 웹 애플리케이션 프레임워크이다
+Express란 Node.js를 사용하여 쉽게 서버를 구성할 수 있게 만든 클래스와 라이브러리의 집합체
+프레임워크이므로 웹 애플리케이션을 만들기 위한 각종 라이브러리와 미들웨어 등이 내장되어 있어 개발하기 편하고, 
+수많은 개발자들에게 개발 규칙을 강제하여 코드 및 구조의 통일성을 향상할 수 있다
+npm i express
+
+4. api 체크 프로그램
+insomnia.rest
+
+
+
+
+
+
+노드몬
+https://despiteallthat.tistory.com/138
+https://inpa.tistory.com/entry/NODE-%F0%9F%93%9A-nodemon-%EC%84%A4%EC%B9%98
+https://jindevelopetravel0919.tistory.com/181
+
+
+sadespair LPTZj8GSddBIho5A
